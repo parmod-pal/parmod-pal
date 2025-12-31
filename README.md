@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Parmod Pal
 
-## 🚀 Software Engineer | Certified Scrum Master (CSM) | E-commerce Specialist | ML/AI Enthusiast
+## 🚀 Lead Software Engineer | Certified Scrum Master (CSM) | E-commerce Specialist | ML/AI Enthusiast
 
 Highly skilled and results-driven **Software Engineer** with **12+ years of experience** in building scalable, high-performance **e-commerce applications**. Strong background in **Agile/Scrum methodologies**, team leadership, and end-to-end project delivery.
 
