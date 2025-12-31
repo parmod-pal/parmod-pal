@@ -68,8 +68,8 @@ Currently expanding my skill set into **Machine Learning (ML)** and **Artificial
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add your profile link)*
-* 📧 Email: *(optional)*
+* 💼 LinkedIn: https://www.linkedin.com/in/parmod-pal/
+* 📧 Email: parmodpal09@gmail.com
 
 ---
 
