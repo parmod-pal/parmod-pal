@@ -12,7 +12,6 @@ Currently expanding my skill set into **Machine Learning (ML)** and **Artificial
 ## 💼 Professional Summary
 
 * 🛒 Deep expertise in **e-commerce platforms**, product catalogs, order management, and checkout systems
-* 💳 Extensive experience with **payment gateway integrations** (PayPal, VoguePay, Ozow, multi-currency systems)
 * 🔁 Certified **Scrum Master (CSM)** with hands-on Agile project execution
 * 👥 Strong leadership skills with cross-functional team collaboration
 * 🤖 Actively learning **ML, NLP, and AI-powered applications**
