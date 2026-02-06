@@ -3,7 +3,7 @@
 
 ## 🚀 Lead Software Engineer | ML/AI Enthusiast
 
-Highly skilled and results-driven **Software Engineer** with **12+ years of experience** in building scalable, high-performance **e-commerce applications**. Strong background in **Agile/Scrum methodologies**, team leadership, and end-to-end project delivery.
+Highly skilled and results-driven **Software Engineer** with **13+ years of experience** in building scalable, high-performance **e-commerce applications**. Strong background in **Agile/Scrum methodologies**, team leadership, and end-to-end project delivery.
 
 Currently expanding my skill set into **Machine Learning (ML)** and **Artificial Intelligence (AI)** to create intelligent, data-driven solutions that complement traditional software engineering.
 
